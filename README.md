@@ -14,7 +14,7 @@ This is a mini front-end web project built using **HTML** and **CSS**. It was cr
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
